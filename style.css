@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,500&display=swap');
+html {
+    cursor: url('pictures/cursors/Neon\ Gamer\ Y9P.cur'), auto;
+}
+
+body {
+    background: url(pictures/fond.jpg);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 2rem;
+    color: rgb(71, 66, 2);
+    font-family: 'Finlandica', Arial, Helvetica, sans-serif;
+}
+
+.button-1 {
+    font-size: x-large;
+    color: rgb(97, 0, 0);
+    max-width: 100%;
+    border: 3px rgb(0, 0, 0) solid;
+    margin: 2%;
+    padding: 1% 1.5%;
+    cursor: url('pictures/cursors/Neon\ Gamer\ Y9P\ Link\ Select.cur'), auto;
+    text-decoration: none;
+    &:hover {
+        background-color: rgb(51, 255, 0);
+    }
+}
+
+.button-2 {
+    text-decoration: none;
+    cursor: url('pictures/cursors/Neon\ Gamer\ Y9P\ Link\ Select.cur'), auto;
+    max-width: 100%;
+    &:hover {
+        color: rgb(183, 0, 255);
+    }
+}
