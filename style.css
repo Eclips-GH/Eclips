@@ -38,3 +38,15 @@ h1 {
         color: rgb(183, 0, 255);
     }
 }
+.button-3 {
+    text-decoration: none;
+    cursor: url('pictures/cursors/Neon\ Gamer\ Y9P\ Link\ Select.cur'), auto;
+    font-size: large;
+    color: red;
+    max-width: 100%;
+    border: 3px rgb(0, 0, 0) solid;
+    padding: 0.7%;
+    &:hover {
+        background-color: gold;
+    }
+}
