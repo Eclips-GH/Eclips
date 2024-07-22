@@ -15,6 +15,12 @@ h1 {
     color: rgb(71, 66, 2);
     font-family: 'Finlandica', Arial, Helvetica, sans-serif;
 }
+.presentation {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: x-large;
+    font-family:'calibri';
+}
 
 .button-1 {
     font-size: x-large;
