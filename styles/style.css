@@ -1,0 +1,19 @@
+/*
+Créateur: César Corpataux
+Date de création: 12.03.2025
+Date de modification: 12.03.2025
+*/ 
+
+/* Général */
+body {
+    background-image: url(../assets/images/bg.jpg);
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: rgb(71, 66, 2);
+    font-family: 'Finlandica', Arial, Helvetica, sans-serif;
+    padding-top: 20%;
+}
